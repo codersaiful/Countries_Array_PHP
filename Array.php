@@ -1,13 +1,11 @@
 <?php
 /**
  * Countries
- *
  * Returns an array of countries and codes.
- *
- * @author      Saiful Islam
+ * For commercial use, You have to use Credit in comment.
+ * 
+ * @author Saiful Islam<codersaiful@gmail.com
  */
-
-
 $Countries = array(
 	'AF' => 'Afghanistan',
 	'AX' => '&#197;land Islands',
